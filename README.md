@@ -1,2 +1,0 @@
-# ProjPractice
-Project Practice
